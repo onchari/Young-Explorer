@@ -16,11 +16,11 @@ using System.Windows.Shapes;
 namespace computer_system_information
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for Removable_Devices_Information.xaml
     /// </summary>
-    public partial class MainWindow 
+    public partial class Removable_Devices_Information : Page
     {
-        public MainWindow()
+        public Removable_Devices_Information()
         {
             InitializeComponent();
         }
